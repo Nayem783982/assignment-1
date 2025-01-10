@@ -1,0 +1,122 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap'); */
+*{
+    margin: 0px;
+    padding: 5px 20px;
+}
+
+.fila-sans-normal {
+    font-family: "Work Sans", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+  }
+/* style nav */
+.dark-2{
+    color: #474747;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+.nav-title{
+    font-weight: 700px;
+}
+nav button{
+    color: #006A50;
+    border-radius: 5px;
+    border:1px solid #006A50;
+    margin-right: 25px;
+}
+/* style main section */
+
+.Banner-Section{
+    background-color: #C6E4D6;
+    border-radius: 10px;
+    margin: 40px;
+}
+.Banner-div{
+    display: flex;
+    text-align: left;
+}
+.btn{
+    background-color: #006A50;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    margin-left: 20px;
+    color: white;    
+}
+.Banner-Section-1{
+    margin: 117px auto;
+}
+.Banner-Section-discription{
+    font-size: 50px;
+    font-weight: bolder;
+  
+}
+.Banner-Section-2{
+    align-items: center;
+    margin: 80px auto;
+}
+
+/* The Vision of Future */
+.The-Vision-of-Future-section{
+    margin-top: 40px ;  
+}
+.The-Vision-of-Future-section-title{
+    font-size: 30px;
+    font-weight: 700px;
+}
+.visions{
+    display: flex;
+    gap: 20px;
+}
+.vision-1{
+    border-radius: 10px;
+    background-color: #548ff536;
+    padding-bottom: 32px;
+}
+.vision-2{
+    border-radius: 10px;
+    background-color: #c6e4d669;
+    padding-bottom: 32px;
+}
+.vision-3{
+    border-radius: 10px;
+    background-color: #ffc4395e;
+    padding-bottom: 32px;
+}
+.btn-1{
+    background-color: #548ff5;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    margin-left: 20px; 
+    margin-top: 15px; 
+    color: white; 
+}
+.btn-2{
+    background-color: #a6cebb;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    margin-left: 20px;  
+    margin-top: 15px; 
+    color: white; 
+}
+.btn-3{
+    background-color: #ffc439;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    margin-left: 20px;   
+    margin-top: 15px;
+    color: white; 
+}
+.btn-1:hover,.btn-2:hover,.btn-3:hover,.btn:hover,.nav-btn:hover{
+    background-color: rgba(255, 0, 0, 0.719);
+    color: rgb(9, 32, 9);
+}
+.
+
+
