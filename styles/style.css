@@ -118,6 +118,15 @@ nav button{
     background-color: rgba(255, 0, 0, 0.719);
     color: rgb(9, 32, 9);
 }
+.Dr-Yunus{
+    background-color: rgb(230, 217, 201);
+    background-image: url(../assets/quote-bg.png);
+    background-repeat: no-repeat;
+    margin-left: 25px;
+    margin-top: 30px;
+    border-radius: 15px;
+   
+}
 /* style Recent-News */
 .Recent-News{
     margin: 30px auto;
@@ -142,3 +151,47 @@ nav button{
     padding: 30px;
 }
 
+/* Donate-For-Bangladesh section style */
+.Donate-For-Bangladesh-title{
+    font-size: 35px;
+}
+.Amount{
+    background-color: rgb(221, 180, 180);
+    width: 150px;
+    height: 25px;
+    text-align: center;
+    justify-content: space-between;
+    padding: 50px 50px;
+    font-size: 30px;
+    border-radius: 15px;
+}
+.Donate-For-Bangladesh{
+    text-align: center;
+    
+}
+.Amounts{
+    display: flex;
+    gap: 15px;
+    justify-content: space-around;
+    padding: 20px 100px;
+
+ 
+}
+.input-taka{
+    margin: 20px auto;
+   width: 80%;
+   height: 50px;
+   background-color: rgb(221, 180, 180);
+   border: none;
+   text-align: center;
+   
+}
+.btn-4{
+    background-color: #006A50;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    margin-left: 20px;   
+    margin-top: 15px;
+    color: white; 
+}
