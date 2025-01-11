@@ -217,3 +217,48 @@ nav button{
     background-color: #548ff5;
     color: white;
 }
+
+
+/* Newsletter-Section */
+.Newsletter-Section{
+    background-color: rgb(198, 228, 214);
+    margin: 30px;
+    border-radius: 20px;
+   
+}
+.Newsletter-Section-parents{
+    text-align: center;
+    margin: 80px auto;
+}
+.Newsletter-Section-title{
+    font-size: 30px;
+}
+.Newsletter-Section-input{
+    width: 600px;
+    height: 40px;
+    border-radius: 8px 0px 0px 8px;
+    background-color:  rgba(255, 255, 255, 0.089);
+    margin: 0px 0px;
+
+}
+.Newsletter-Section-input:hover{
+    background-color:  rgba(255, 255, 255, 0.089);
+    background: rgb(230, 192, 192);
+}
+.btn-5{
+    border-radius: 0px 8px 8px 0px;
+    background: rgb(0, 106, 80);
+    color: white; 
+    width: 100px;
+    height: 56px;
+    border: none;
+    margin-left: -10px;
+    margin-top: 30px;
+}
+.btn-5:hover{
+    background-color: #548ff5;
+    color: white;
+}
+.style{
+   margin-top: 40px;
+}
